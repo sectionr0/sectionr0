@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/♡ Swit.io-FF585D?style=flat-square&logo=Swit.io&logoColor=white"/>
+    <img src="https://img.shields.io/badge/D! Dooray-125DE6?style=flat-square&logo=Dooray&logoColor=white"/>
   
 </p>
 <br>
