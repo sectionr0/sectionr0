@@ -4,16 +4,11 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=484EF7&center=true&vCenter=true&width=435&lines=JAVA%2FKotiln+Backend+Developer;Enjoying+Development+process;Always+learning+new+things)](https://git.io/typing-svg)
 
-  
-<!-- ##   
-<h3 align="center">🛠 portfolio 🛠</h3>
-<a href="mailto:sectionr0@gmail.com"><img src="https://img.shields.io/badge/portfolio-FF3633?style=square&logo=Micro.blog&logoColor=white"></a>
-<a href="mailto:sectionr0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=GMAIL&logoColor=white"></a>
-  
- -->
 ##
-  
-<h3 align="center">🛠 Tech Skill 🛠</h3>
+
+
+
+<h3 align="center">🛠 Tech Skill</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
@@ -35,6 +30,14 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   
 </p>
+<br>
+ 
+<h3 align="center">🔍 About Me</h3>
+<a href=""><img src="https://img.shields.io/badge/portfolio-FF9800?style=square&logo=Micro.blog&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Blog-20C997?style=square&logo=velog&logoColor=white"></a>
+<a href="mailto:sectionr0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=GMAIL&logoColor=white"></a>
+
+
 </div>
 
 
