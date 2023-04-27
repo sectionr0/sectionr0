@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
@@ -37,7 +36,6 @@
  
 <h3 align="center">🔍 About Me</h3>
 <a href="https://lucky-parakeet-aa4.notion.site/2aa036d439a24c23affe1b5b1d4fcaf4"><img src="https://img.shields.io/badge/portfolio-FF9800?style=square&logo=Micro.blog&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Blog-20C997?style=square&logo=velog&logoColor=white"></a>
 <a href="mailto:sectionr0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=GMAIL&logoColor=white"></a>
 
 
