@@ -35,7 +35,6 @@
 <br>
  
 <h3 align="center">🔍 About Me</h3>
-<a href="https://lucky-parakeet-aa4.notion.site/2aa036d439a24c23affe1b5b1d4fcaf4"><img src="https://img.shields.io/badge/portfolio-FF9800?style=square&logo=Micro.blog&logoColor=white"></a>
 <a href="mailto:sectionr0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=GMAIL&logoColor=white"></a>
 
 
